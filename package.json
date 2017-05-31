@@ -1,0 +1,19 @@
+{
+  "name": "hone_yo_skills",
+  "version": "1.0.0",
+  "description": "making an app for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrivasrobertson/hone_yo_skills.git"
+  },
+  "author": "Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markrivasrobertson/hone_yo_skills/issues"
+  },
+  "homepage": "https://github.com/markrivasrobertson/hone_yo_skills#readme"
+}
